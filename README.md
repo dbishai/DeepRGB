@@ -2,7 +2,7 @@
 Frame-to-frame segmentation of RGB-D videos using deep neural networks
 
 
-## Setup
+## Setup (Ubuntu 16.04)
 
 Clone ElasticFusion, edit build.sh script to delete lines 6-21, then run it
 
